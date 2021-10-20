@@ -5,7 +5,8 @@ int main()
   int zahl;
   int i;
   std::ifstream fin("daten.txt");
-  while(! fin.eof()){
+  for (i = 0; i < 2; i++){
+  //while(! fin.eof()){
     fin >> zahl ;
   std::cout << zahl << std::endl;
   }
