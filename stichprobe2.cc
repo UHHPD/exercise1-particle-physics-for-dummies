@@ -18,14 +18,14 @@ int main()
     }
     if(!fin.eof()){
       mean=mean/M;
-      fout << "Mittelwert: " << mean << std :: endl ;
+      fout << mean << std :: endl ;
       float var = 0;
       
       for(int j=0; j<M; j++){
         var+=pow(a[i][j]-mean,2);
       }
       var=var/M;
-      fout2 << "Varianz: " <<var << std :: endl ;
+      fout2 <<var << std :: endl ;
 
       float stddev = sqrt(var);
       //std :: cout << "Standardabweichung: "<<stddev << std :: endl ;

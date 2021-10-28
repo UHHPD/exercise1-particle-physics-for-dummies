@@ -1,26 +1,26 @@
-Mittelwert: 2.55556
-Mittelwert: 2.44444
-Mittelwert: 3.77778
-Mittelwert: 2.66667
-Mittelwert: 3
-Mittelwert: 3.55556
-Mittelwert: 3
-Mittelwert: 3.55556
-Mittelwert: 3.44444
-Mittelwert: 3.11111
-Mittelwert: 3.55556
-Mittelwert: 4
-Mittelwert: 2
-Mittelwert: 2.66667
-Mittelwert: 2.66667
-Mittelwert: 2.55556
-Mittelwert: 3.11111
-Mittelwert: 2.88889
-Mittelwert: 4.11111
-Mittelwert: 2.55556
-Mittelwert: 3.77778
-Mittelwert: 2.33333
-Mittelwert: 3.11111
-Mittelwert: 3.55556
-Mittelwert: 3.44444
-Mittelwert: 3.55556
+2.55556
+2.44444
+3.77778
+2.66667
+3
+3.55556
+3
+3.55556
+3.44444
+3.11111
+3.55556
+4
+2
+2.66667
+2.66667
+2.55556
+3.11111
+2.88889
+4.11111
+2.55556
+3.77778
+2.33333
+3.11111
+3.55556
+3.44444
+3.55556
