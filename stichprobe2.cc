@@ -11,10 +11,10 @@ int main()
   int O = N/M;
   int a[N][M];
   int i=0;
-  float mean[O];
-  float Mittelwert;
-  float var[O];
-  float Varianz;
+  double mean[O];
+  double Mittelwert;
+  double var[O];
+  double Varianz;
   while(!fin.eof()){
     for(int j=0; j<M; j++){
       fin >> a[i][j];
@@ -30,7 +30,7 @@ int main()
       var[i]=var[i]/M;
       fout2 << var[i] << std :: endl ;
 
-      float stddev = sqrt(var[i]);
+      double stddev = sqrt(var[i]);
       //std :: cout << "Standardabweichung: "<<stddev << std :: endl ;
       Mittelwert += mean[i];
       Varianz += var[i];
