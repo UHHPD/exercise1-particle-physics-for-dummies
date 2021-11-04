@@ -9,7 +9,7 @@ int main()
   int N = 234;
   int M =9;
   int O = N/M;
-  int a[N][M];
+  int a[N][M]; //should be O instead of O
   int i=0;
   double mean[O];
   double Mittelwert;
